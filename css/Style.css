@@ -1,0 +1,25 @@
+
+
+
+
+/*SOBRE ESCIBIENDO LOS ESTILOS DE BOOTSTRAP*/
+.bg-primary, .btn-primary{
+	background-color:#A4303F !important;
+	box-shadow: 0 0 10px #870058 ;
+}
+
+.card:hover{
+	box-shadow: 0 0 10px #0c0c0c3b;
+}
+
+.text-primary{
+	color:#A4303F !important;
+
+}
+
+/*Estilos del diseño*/
+
+
+
+
+
